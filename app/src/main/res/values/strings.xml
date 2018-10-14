@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">newSession14</string>
+    <string name="home">Home</string>
+    <string name="log_out">Log Out</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="setting">Setting</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="this_is_my_home">This Is My Home</string>
+    <string name="this_is_settings_fragment">This is Settings Fragment</string>
+    <string name="username">UserName:</string>
+    <string name="email">Email:</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="settings">Settings</string>
+    <string name="welcome">Welcome</string>
+    <string name="exit">Exit</string>
+    <string name="black_or_white">Black OR White</string>
+    <string name="save">Save</string>
+    <string name="iagree">I Agree</string>
+
+</resources>
+
+
+
+
+
+
+
